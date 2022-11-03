@@ -1,5 +1,6 @@
-/* 
-👉 Write your kata here!
-*/
+export { findLargestInArray };
 
-//👉 Write the function your CodeWarriors will start with below here:
+// Find the largest number in an array
+function findLargestInArray(data) {
+
+}
